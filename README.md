@@ -1,4 +1,4 @@
-# TC3 – Tomada de decisão multicritério
+# Teoria da Decisão - Tomada de decisão multicritério
 
 Disciplina **Teoria da Decisão** contendo os códigos e artefatos das três entregas (otimização mono-objetivo, multiobjetivo e decisão multicritério).
 
