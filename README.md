@@ -36,4 +36,3 @@ Os scripts usam sementes fixas para garantir repetibilidade básica.
    python src/decisao_multicriterio.py
    ```  
    Resultados consolidados em `graphs/decisao_multicriterio/decisao_resumo.csv` e gráficos correspondentes.  
-   Para rodar mais rápido, defina `ENTREGA3_FAST=1` antes do comando.
