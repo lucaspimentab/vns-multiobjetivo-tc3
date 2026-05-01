@@ -1,0 +1,121 @@
+dispatching_base_num,pickup_datetime,dropoff_datetime,pulocationid,dolocationid,affiliated_base_number,duration_min,original_base,pu_borough,pu_zone_name,service_zone_x,do_borough,do_zone_name,service_zone_y,task_id
+B01710,2022-01-03 10:40:45,2022-01-03 10:59:39,21,29,B01710,18.9,B01710,Brooklyn,Bensonhurst East,Boro Zone,Brooklyn,Brighton Beach,Boro Zone,0
+B01710,2022-01-03 13:18:44,2022-01-03 13:30:50,133,165,B01710,12.1,B01710,Brooklyn,Kensington,Boro Zone,Brooklyn,Midwood,Boro Zone,1
+B00706,2022-01-03 13:34:54,2022-01-03 13:47:42,206,206,B00706,12.8,B00706,Staten Island,Saint George/New Brighton,Boro Zone,Staten Island,Saint George/New Brighton,Boro Zone,2
+B02784,2022-01-03 10:15:19,2022-01-03 10:39:07,210,77,B02784,23.8,B02784,Brooklyn,Sheepshead Bay,Boro Zone,Brooklyn,East New York/Pennsylvania Avenue,Boro Zone,3
+B01087,2022-01-03 21:04:30,2022-01-03 21:15:06,230,140,B01087,10.6,B01087,Manhattan,Times Sq/Theatre District,Yellow Zone,Manhattan,Lenox Hill East,Yellow Zone,4
+B02795,2022-01-03 11:42:18,2022-01-03 11:56:31,75,243,B02795,14.216666666666669,B02795,Manhattan,East Harlem South,Boro Zone,Manhattan,Washington Heights North,Boro Zone,5
+B02803,2022-01-03 09:00:00,2022-01-03 09:09:40,137,7,B02803,9.666666666666666,B02803,Manhattan,Kips Bay,Yellow Zone,Queens,Astoria,Boro Zone,6
+B00706,2022-01-03 11:30:58,2022-01-03 11:44:09,221,115,B00706,13.183333333333334,B00706,Staten Island,Stapleton,Boro Zone,Staten Island,Grymes Hill/Clifton,Boro Zone,7
+B01710,2022-01-03 05:23:08,2022-01-03 05:38:03,155,21,B01710,14.916666666666666,B01710,Brooklyn,Marine Park/Mill Basin,Boro Zone,Brooklyn,Bensonhurst East,Boro Zone,8
+B03266,2022-01-03 09:37:33,2022-01-03 09:50:00,179,223,B03266,12.45,B03266,Queens,Old Astoria,Boro Zone,Queens,Steinway,Boro Zone,9
+B00965,2022-01-03 15:24:00,2022-01-03 15:54:00,221,206,B00965,30.0,B00965,Staten Island,Stapleton,Boro Zone,Staten Island,Saint George/New Brighton,Boro Zone,10
+B02795,2022-01-03 13:19:54,2022-01-03 13:42:52,51,119,B02795,22.966666666666665,B02795,Bronx,Co-Op City,Boro Zone,Bronx,Highbridge,Boro Zone,11
+B00706,2022-01-03 04:27:28,2022-01-03 04:51:19,206,23,B00706,23.85,B00706,Staten Island,Saint George/New Brighton,Boro Zone,Staten Island,Bloomfield/Emerson Hill,Boro Zone,12
+B01710,2022-01-03 15:42:13,2022-01-03 15:55:07,210,165,B01710,12.9,B01710,Brooklyn,Sheepshead Bay,Boro Zone,Brooklyn,Midwood,Boro Zone,13
+B03160,2022-01-03 11:47:00,2022-01-03 12:00:00,158,265,B03404,13.0,B03160,Manhattan,Meatpacking/West Village West,Yellow Zone,,Outside of NYC,,14
+B03160,2022-01-03 22:21:00,2022-01-03 22:34:00,234,142,B03404,13.0,B03160,Manhattan,Union Sq,Yellow Zone,Manhattan,Lincoln Square East,Yellow Zone,15
+B03380,2022-01-03 09:36:13,2022-01-03 09:58:00,87,138,B03380,21.78333333333333,B03380,Manhattan,Financial District North,Yellow Zone,Queens,LaGuardia Airport,Airports,16
+B00706,2022-01-03 16:37:27,2022-01-03 16:44:50,245,245,B00706,7.383333333333334,B00706,Staten Island,West Brighton,Boro Zone,Staten Island,West Brighton,Boro Zone,17
+B03160,2022-01-03 09:04:00,2022-01-03 09:21:00,42,244,B03404,17.0,B03160,Manhattan,Central Harlem North,Boro Zone,Manhattan,Washington Heights South,Boro Zone,18
+B03266,2022-01-03 11:50:21,2022-01-03 12:03:20,7,7,B03266,12.983333333333333,B03266,Queens,Astoria,Boro Zone,Queens,Astoria,Boro Zone,19
+B02795,2022-01-03 08:35:31,2022-01-03 08:44:00,21,22,B02795,8.483333333333333,B02795,Brooklyn,Bensonhurst East,Boro Zone,Brooklyn,Bensonhurst West,Boro Zone,20
+B01710,2022-01-03 09:21:44,2022-01-03 09:46:47,22,26,B01710,25.05,B01710,Brooklyn,Bensonhurst West,Boro Zone,Brooklyn,Borough Park,Boro Zone,21
+B01087,2022-01-03 17:40:47,2022-01-03 18:31:20,230,265,B01087,50.55,B01087,Manhattan,Times Sq/Theatre District,Yellow Zone,,Outside of NYC,,22
+B02795,2022-01-03 12:57:06,2022-01-03 13:25:40,227,144,B02795,28.566666666666663,B02795,Brooklyn,Sunset Park East,Boro Zone,Manhattan,Little Italy/NoLiTa,Yellow Zone,23
+B01710,2022-01-03 12:22:21,2022-01-03 12:51:16,222,257,B01710,28.916666666666668,B01710,Brooklyn,Starrett City,Boro Zone,Brooklyn,Windsor Terrace,Boro Zone,24
+B00965,2022-01-03 06:25:00,2022-01-03 06:38:00,221,221,B00965,13.0,B00965,Staten Island,Stapleton,Boro Zone,Staten Island,Stapleton,Boro Zone,25
+B00965,2022-01-03 07:30:00,2022-01-03 07:55:00,206,221,B00965,25.0,B00965,Staten Island,Saint George/New Brighton,Boro Zone,Staten Island,Stapleton,Boro Zone,26
+B03380,2022-01-03 15:45:46,2022-01-03 15:54:45,68,161,B03380,8.983333333333333,B03380,Manhattan,East Chelsea,Yellow Zone,Manhattan,Midtown Center,Yellow Zone,27
+B02803,2022-01-03 13:25:42,2022-01-03 13:33:32,242,147,B02803,7.833333333333333,B02803,Bronx,Van Nest/Morris Park,Boro Zone,Bronx,Longwood,Boro Zone,28
+B03266,2022-01-03 11:49:44,2022-01-03 11:54:46,7,7,B03266,5.033333333333333,B03266,Queens,Astoria,Boro Zone,Queens,Astoria,Boro Zone,29
+B01087,2022-01-03 13:29:27,2022-01-03 13:47:42,138,132,B01087,18.25,B01087,Queens,LaGuardia Airport,Airports,Queens,JFK Airport,Airports,30
+B02803,2022-01-03 09:30:00,2022-01-03 09:35:41,69,169,B02803,5.683333333333334,B02803,Bronx,East Concourse/Concourse Village,Boro Zone,Bronx,Mount Hope,Boro Zone,31
+B00965,2022-01-03 16:48:00,2022-01-03 17:34:00,221,115,B00965,46.0,B00965,Staten Island,Stapleton,Boro Zone,Staten Island,Grymes Hill/Clifton,Boro Zone,32
+B03266,2022-01-03 06:29:22,2022-01-03 06:39:17,223,223,B03266,9.916666666666666,B03266,Queens,Steinway,Boro Zone,Queens,Steinway,Boro Zone,33
+B02784,2022-01-03 14:56:09,2022-01-03 15:16:15,123,55,B02784,20.1,B02784,Brooklyn,Homecrest,Boro Zone,Brooklyn,Coney Island,Boro Zone,34
+B03380,2022-01-03 12:03:46,2022-01-03 12:13:55,48,90,B03380,10.15,B03380,Manhattan,Clinton East,Yellow Zone,Manhattan,Flatiron,Yellow Zone,35
+B01087,2022-01-03 05:20:15,2022-01-03 05:49:08,229,1,B01087,28.883333333333333,B01087,Manhattan,Sutton Place/Turtle Bay North,Yellow Zone,EWR,Newark Airport,EWR,36
+B02784,2022-01-03 08:00:45,2022-01-03 08:28:39,77,210,B02784,27.9,B02784,Brooklyn,East New York/Pennsylvania Avenue,Boro Zone,Brooklyn,Sheepshead Bay,Boro Zone,37
+B03380,2022-01-03 20:47:16,2022-01-03 21:00:18,87,249,B03380,13.033333333333331,B03380,Manhattan,Financial District North,Yellow Zone,Manhattan,West Village,Yellow Zone,38
+B00706,2022-01-03 08:16:24,2022-01-03 09:04:32,245,49,B00706,48.13333333333333,B00706,Staten Island,West Brighton,Boro Zone,Brooklyn,Clinton Hill,Boro Zone,39
+B01087,2022-01-03 00:38:30,2022-01-03 01:07:40,132,230,B01087,29.166666666666668,B01087,Queens,JFK Airport,Airports,Manhattan,Times Sq/Theatre District,Yellow Zone,40
+B01087,2022-01-03 01:03:20,2022-01-03 01:11:01,164,229,B01087,7.683333333333334,B01087,Manhattan,Midtown South,Yellow Zone,Manhattan,Sutton Place/Turtle Bay North,Yellow Zone,41
+B02795,2022-01-03 11:33:49,2022-01-03 11:50:37,257,228,B02795,16.8,B02795,Brooklyn,Windsor Terrace,Boro Zone,Brooklyn,Sunset Park West,Boro Zone,42
+B01087,2022-01-03 16:09:56,2022-01-03 16:46:26,161,265,B01087,36.5,B01087,Manhattan,Midtown Center,Yellow Zone,,Outside of NYC,,43
+B03266,2022-01-03 19:40:44,2022-01-03 19:44:36,7,7,B03266,3.8666666666666663,B03266,Queens,Astoria,Boro Zone,Queens,Astoria,Boro Zone,44
+B03160,2022-01-03 15:40:00,2022-01-03 16:34:00,107,132,B03404,54.0,B03160,Manhattan,Gramercy,Yellow Zone,Queens,JFK Airport,Airports,45
+B00706,2022-01-03 06:29:51,2022-01-03 06:35:00,206,206,B00706,5.15,B00706,Staten Island,Saint George/New Brighton,Boro Zone,Staten Island,Saint George/New Brighton,Boro Zone,46
+B03160,2022-01-03 09:57:00,2022-01-03 10:15:00,41,229,B03404,18.0,B03160,Manhattan,Central Harlem,Boro Zone,Manhattan,Sutton Place/Turtle Bay North,Yellow Zone,47
+B02795,2022-01-03 14:42:37,2022-01-03 15:04:09,69,137,B02795,21.53333333333333,B02795,Bronx,East Concourse/Concourse Village,Boro Zone,Manhattan,Kips Bay,Yellow Zone,48
+B01710,2022-01-03 12:04:18,2022-01-03 12:38:28,14,21,B01710,34.166666666666664,B01710,Brooklyn,Bay Ridge,Boro Zone,Brooklyn,Bensonhurst East,Boro Zone,49
+B02784,2022-01-03 14:07:41,2022-01-03 14:36:16,210,72,B02784,28.58333333333333,B02784,Brooklyn,Sheepshead Bay,Boro Zone,Brooklyn,East Flatbush/Remsen Village,Boro Zone,50
+B01087,2022-01-03 13:59:06,2022-01-03 15:27:09,265,265,B01087,88.05,B01087,,Outside of NYC,,,Outside of NYC,,51
+B00965,2022-01-03 19:51:00,2022-01-03 20:05:00,115,221,B00965,14.0,B00965,Staten Island,Grymes Hill/Clifton,Boro Zone,Staten Island,Stapleton,Boro Zone,52
+B02795,2022-01-03 10:53:12,2022-01-03 11:09:42,74,75,B02795,16.5,B02795,Manhattan,East Harlem North,Boro Zone,Manhattan,East Harlem South,Boro Zone,53
+B01087,2022-01-03 03:48:14,2022-01-03 04:14:24,163,1,B01087,26.166666666666668,B01087,Manhattan,Midtown North,Yellow Zone,EWR,Newark Airport,EWR,54
+B03380,2022-01-03 17:16:53,2022-01-03 17:28:55,107,87,B03380,12.033333333333331,B03380,Manhattan,Gramercy,Yellow Zone,Manhattan,Financial District North,Yellow Zone,55
+B00706,2022-01-03 20:24:15,2022-01-03 20:32:39,221,6,B00706,8.4,B00706,Staten Island,Stapleton,Boro Zone,Staten Island,Arrochar/Fort Wadsworth,Boro Zone,56
+B01710,2022-01-03 08:12:11,2022-01-03 08:26:26,91,188,B01710,14.25,B01710,Brooklyn,Flatlands,Boro Zone,Brooklyn,Prospect-Lefferts Gardens,Boro Zone,57
+B02803,2022-01-03 15:05:44,2022-01-03 15:18:37,42,20,B02803,12.883333333333333,B02803,Manhattan,Central Harlem North,Boro Zone,Bronx,Belmont,Boro Zone,58
+B02795,2022-01-03 06:30:47,2022-01-03 06:53:38,48,261,B02795,22.85,B02795,Manhattan,Clinton East,Yellow Zone,Manhattan,World Trade Center,Yellow Zone,59
+B02803,2022-01-03 05:15:00,2022-01-03 05:23:12,74,169,B02803,8.2,B02803,Manhattan,East Harlem North,Boro Zone,Bronx,Mount Hope,Boro Zone,60
+B01087,2022-01-03 07:34:17,2022-01-03 08:04:18,226,132,B01087,30.016666666666666,B01087,Queens,Sunnyside,Boro Zone,Queens,JFK Airport,Airports,61
+B00965,2022-01-03 10:23:00,2022-01-03 10:46:00,245,187,B00965,23.0,B00965,Staten Island,West Brighton,Boro Zone,Staten Island,Port Richmond,Boro Zone,62
+B03160,2022-01-03 21:47:00,2022-01-03 22:06:00,255,225,B03404,19.0,B03160,Brooklyn,Williamsburg (North Side),Boro Zone,Brooklyn,Stuyvesant Heights,Boro Zone,63
+B03266,2022-01-03 13:47:23,2022-01-03 13:57:18,223,223,B03266,9.916666666666666,B03266,Queens,Steinway,Boro Zone,Queens,Steinway,Boro Zone,64
+B00706,2022-01-03 10:06:08,2022-01-03 10:22:44,206,214,B00706,16.6,B00706,Staten Island,Saint George/New Brighton,Boro Zone,Staten Island,South Beach/Dongan Hills,Boro Zone,65
+B00965,2022-01-03 14:57:00,2022-01-03 15:13:00,214,214,B00965,16.0,B00965,Staten Island,South Beach/Dongan Hills,Boro Zone,Staten Island,South Beach/Dongan Hills,Boro Zone,66
+B03160,2022-01-03 08:40:00,2022-01-03 09:02:00,33,145,B03404,22.0,B03160,Brooklyn,Brooklyn Heights,Boro Zone,Queens,Long Island City/Hunters Point,Boro Zone,67
+B00706,2022-01-03 09:06:13,2022-01-03 09:17:12,221,115,B00706,10.983333333333333,B00706,Staten Island,Stapleton,Boro Zone,Staten Island,Grymes Hill/Clifton,Boro Zone,68
+B00965,2022-01-03 11:04:00,2022-01-03 11:35:00,221,221,B00965,31.0,B00965,Staten Island,Stapleton,Boro Zone,Staten Island,Stapleton,Boro Zone,69
+B01710,2022-01-03 11:10:56,2022-01-03 11:33:57,181,22,B01710,23.016666666666666,B01710,Brooklyn,Park Slope,Boro Zone,Brooklyn,Bensonhurst West,Boro Zone,70
+B03380,2022-01-03 08:03:10,2022-01-03 08:10:29,231,249,B03380,7.316666666666666,B03380,Manhattan,TriBeCa/Civic Center,Yellow Zone,Manhattan,West Village,Yellow Zone,71
+B00706,2022-01-03 19:22:18,2022-01-03 19:42:39,245,156,B00706,20.35,B00706,Staten Island,West Brighton,Boro Zone,Staten Island,Mariners Harbor,Boro Zone,72
+B02803,2022-01-03 10:00:00,2022-01-03 10:26:46,139,137,B02803,26.766666666666666,B02803,Queens,Laurelton,Boro Zone,Manhattan,Kips Bay,Yellow Zone,73
+B03380,2022-01-03 10:15:55,2022-01-03 10:21:31,79,233,B03380,5.6,B03380,Manhattan,East Village,Yellow Zone,Manhattan,UN/Turtle Bay South,Yellow Zone,74
+B03160,2022-01-03 18:32:00,2022-01-03 18:53:00,144,236,B03404,21.0,B03160,Manhattan,Little Italy/NoLiTa,Yellow Zone,Manhattan,Upper East Side North,Yellow Zone,75
+B02784,2022-01-03 07:28:54,2022-01-03 08:11:45,86,39,B02784,42.85,B02784,Queens,Far Rockaway,Boro Zone,Brooklyn,Canarsie,Boro Zone,76
+B02784,2022-01-03 13:48:30,2022-01-03 13:56:45,17,256,B02784,8.25,B02784,Brooklyn,Bedford,Boro Zone,Brooklyn,Williamsburg (South Side),Boro Zone,77
+B02803,2022-01-03 04:25:00,2022-01-03 04:29:19,41,152,B02803,4.316666666666666,B02803,Manhattan,Central Harlem,Boro Zone,Manhattan,Manhattanville,Boro Zone,78
+B01710,2022-01-03 10:51:43,2022-01-03 11:22:59,97,77,B01710,31.266666666666666,B01710,Brooklyn,Fort Greene,Boro Zone,Brooklyn,East New York/Pennsylvania Avenue,Boro Zone,79
+B02803,2022-01-03 19:45:00,2022-01-03 19:52:56,212,159,B02803,7.933333333333334,B02803,Bronx,Soundview/Bruckner,Boro Zone,Bronx,Melrose South,Boro Zone,80
+B02795,2022-01-03 07:14:46,2022-01-03 07:31:25,74,232,B02795,16.65,B02795,Manhattan,East Harlem North,Boro Zone,Manhattan,Two Bridges/Seward Park,Yellow Zone,81
+B03380,2022-01-03 08:25:23,2022-01-03 08:32:18,48,161,B03380,6.916666666666667,B03380,Manhattan,Clinton East,Yellow Zone,Manhattan,Midtown Center,Yellow Zone,82
+B02803,2022-01-03 05:00:00,2022-01-03 05:06:52,116,42,B02803,6.866666666666666,B02803,Manhattan,Hamilton Heights,Boro Zone,Manhattan,Central Harlem North,Boro Zone,83
+B03160,2022-01-03 23:29:00,2022-01-03 23:37:00,163,262,B02800,8.0,B03160,Manhattan,Midtown North,Yellow Zone,Manhattan,Yorkville East,Yellow Zone,84
+B01710,2022-01-03 08:33:27,2022-01-03 08:59:35,55,227,B01710,26.133333333333333,B01710,Brooklyn,Coney Island,Boro Zone,Brooklyn,Sunset Park East,Boro Zone,85
+B02784,2022-01-03 13:50:43,2022-01-03 14:18:55,21,214,B02784,28.2,B02784,Brooklyn,Bensonhurst East,Boro Zone,Staten Island,South Beach/Dongan Hills,Boro Zone,86
+B02784,2022-01-03 10:00:58,2022-01-03 10:08:26,236,45,B02784,7.466666666666667,B02784,Manhattan,Upper East Side North,Yellow Zone,Manhattan,Chinatown,Yellow Zone,87
+B03266,2022-01-03 10:18:44,2022-01-03 10:28:39,179,179,B03266,9.916666666666666,B03266,Queens,Old Astoria,Boro Zone,Queens,Old Astoria,Boro Zone,88
+B02784,2022-01-03 13:36:25,2022-01-03 13:49:53,165,133,B02784,13.466666666666669,B02784,Brooklyn,Midwood,Boro Zone,Brooklyn,Kensington,Boro Zone,89
+B02803,2022-01-03 09:45:00,2022-01-03 09:50:27,250,242,B02803,5.45,B02803,Bronx,Westchester Village/Unionport,Boro Zone,Bronx,Van Nest/Morris Park,Boro Zone,90
+B01087,2022-01-03 13:52:11,2022-01-03 14:32:38,10,265,B01087,40.45,B01087,Queens,Baisley Park,Boro Zone,,Outside of NYC,,91
+B03380,2022-01-03 17:42:14,2022-01-03 17:50:51,164,237,B03380,8.616666666666667,B03380,Manhattan,Midtown South,Yellow Zone,Manhattan,Upper East Side South,Yellow Zone,92
+B02784,2022-01-03 14:00:14,2022-01-03 14:21:14,55,123,B02784,21.0,B02784,Brooklyn,Coney Island,Boro Zone,Brooklyn,Homecrest,Boro Zone,93
+B02795,2022-01-03 08:58:24,2022-01-03 09:07:31,61,61,B02795,9.116666666666667,B02795,Brooklyn,Crown Heights North,Boro Zone,Brooklyn,Crown Heights North,Boro Zone,94
+B03266,2022-01-03 14:07:03,2022-01-03 14:11:05,179,223,B03266,4.033333333333333,B03266,Queens,Old Astoria,Boro Zone,Queens,Steinway,Boro Zone,95
+B01710,2022-01-03 15:30:16,2022-01-03 15:49:20,39,165,B01710,19.066666666666663,B01710,Brooklyn,Canarsie,Boro Zone,Brooklyn,Midwood,Boro Zone,96
+B01087,2022-01-03 16:18:52,2022-01-03 16:52:32,92,132,B01087,33.666666666666664,B01087,Queens,Flushing,Boro Zone,Queens,JFK Airport,Airports,97
+B03380,2022-01-03 13:14:58,2022-01-03 13:21:19,224,107,B03380,6.35,B03380,Manhattan,Stuy Town/Peter Cooper Village,Yellow Zone,Manhattan,Gramercy,Yellow Zone,98
+B00706,2022-01-03 10:11:58,2022-01-03 10:28:56,206,245,B00706,16.966666666666665,B00706,Staten Island,Saint George/New Brighton,Boro Zone,Staten Island,West Brighton,Boro Zone,99
+B02784,2022-01-03 12:37:56,2022-01-03 13:50:13,39,86,B02784,72.28333333333333,B02784,Brooklyn,Canarsie,Boro Zone,Queens,Far Rockaway,Boro Zone,100
+B00965,2022-01-03 09:47:00,2022-01-03 10:01:00,206,206,B00965,14.0,B00965,Staten Island,Saint George/New Brighton,Boro Zone,Staten Island,Saint George/New Brighton,Boro Zone,101
+B00706,2022-01-03 13:43:38,2022-01-03 13:51:00,206,206,B00706,7.366666666666666,B00706,Staten Island,Saint George/New Brighton,Boro Zone,Staten Island,Saint George/New Brighton,Boro Zone,102
+B00965,2022-01-03 14:40:00,2022-01-03 15:05:00,6,221,B00965,25.0,B00965,Staten Island,Arrochar/Fort Wadsworth,Boro Zone,Staten Island,Stapleton,Boro Zone,103
+B03266,2022-01-03 22:24:05,2022-01-03 22:38:49,223,173,B03266,14.733333333333333,B03266,Queens,Steinway,Boro Zone,Queens,North Corona,Boro Zone,104
+B03266,2022-01-03 14:25:00,2022-01-03 14:33:13,223,83,B03266,8.216666666666667,B03266,Queens,Steinway,Boro Zone,Queens,Elmhurst/Maspeth,Boro Zone,105
+B03160,2022-01-03 03:46:00,2022-01-03 04:10:00,163,138,B03404,24.0,B03160,Manhattan,Midtown North,Yellow Zone,Queens,LaGuardia Airport,Airports,106
+B03380,2022-01-03 18:12:24,2022-01-03 18:27:24,113,237,B03380,15.0,B03380,Manhattan,Greenwich Village North,Yellow Zone,Manhattan,Upper East Side South,Yellow Zone,107
+B02803,2022-01-03 10:00:00,2022-01-03 10:06:12,42,119,B02803,6.2,B02803,Manhattan,Central Harlem North,Boro Zone,Bronx,Highbridge,Boro Zone,108
+B03160,2022-01-03 09:15:00,2022-01-03 09:42:00,100,75,B03404,27.0,B03160,Manhattan,Garment District,Yellow Zone,Manhattan,East Harlem South,Boro Zone,109
+B02803,2022-01-03 08:45:00,2022-01-03 08:52:03,244,152,B02803,7.05,B02803,Manhattan,Washington Heights South,Boro Zone,Manhattan,Manhattanville,Boro Zone,110
+B03380,2022-01-03 19:56:24,2022-01-03 20:08:16,229,164,B03380,11.866666666666667,B03380,Manhattan,Sutton Place/Turtle Bay North,Yellow Zone,Manhattan,Midtown South,Yellow Zone,111
+B00965,2022-01-03 08:13:00,2022-01-03 08:57:00,6,176,B00965,44.0,B00965,Staten Island,Arrochar/Fort Wadsworth,Boro Zone,Staten Island,Oakwood,Boro Zone,112
+B02795,2022-01-03 13:00:49,2022-01-03 13:35:49,39,86,B02795,35.0,B02795,Brooklyn,Canarsie,Boro Zone,Queens,Far Rockaway,Boro Zone,113
+B02795,2022-01-03 08:43:02,2022-01-03 09:49:16,198,140,B02795,66.23333333333333,B02795,Queens,Ridgewood,Boro Zone,Manhattan,Lenox Hill East,Yellow Zone,114
+B03266,2022-01-03 14:26:34,2022-01-03 14:33:13,223,223,B03266,6.65,B03266,Queens,Steinway,Boro Zone,Queens,Steinway,Boro Zone,115
+B00965,2022-01-03 11:52:00,2022-01-03 12:03:00,245,245,B00965,11.0,B00965,Staten Island,West Brighton,Boro Zone,Staten Island,West Brighton,Boro Zone,116
+B03160,2022-01-03 09:55:00,2022-01-03 10:04:00,61,181,B03404,9.0,B03160,Brooklyn,Crown Heights North,Boro Zone,Brooklyn,Park Slope,Boro Zone,117
+B02784,2022-01-03 11:09:56,2022-01-03 11:22:51,55,150,B02784,12.916666666666666,B02784,Brooklyn,Coney Island,Boro Zone,Brooklyn,Manhattan Beach,Boro Zone,118
+B03266,2022-01-03 11:33:29,2022-01-03 11:43:24,7,7,B03266,9.916666666666666,B03266,Queens,Astoria,Boro Zone,Queens,Astoria,Boro Zone,119
