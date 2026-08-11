@@ -1,6 +1,0 @@
-question_id,more_important,less_important,partial_value,preferred_side,constraint,prompt
-1,f1,f2,0.7,less_important,w_f2 >= 0.70 * w_f1,70% de melhoria em f1 versus 100% de melhoria em f2
-2,f1,f2,0.8,more_important,w_f2 <= 0.80 * w_f1,80% de melhoria em f1 versus 100% de melhoria em f2
-3,f2,slack_min,0.7,less_important,w_slack_min >= 0.70 * w_f2,70% de melhoria em f2 versus 100% de melhoria em slack_min
-4,f2,slack_min,0.9,more_important,w_slack_min <= 0.90 * w_f2,90% de melhoria em f2 versus 100% de melhoria em slack_min
-5,slack_min,cost_var,0.9,less_important,w_cost_var >= 0.90 * w_slack_min,90% de melhoria em slack_min versus 100% de melhoria em cost_var
